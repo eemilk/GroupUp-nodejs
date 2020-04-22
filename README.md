@@ -3,6 +3,6 @@ Group manager application's Node.js API demo. This is part of school's mobile ap
 
 ## Features
 - JSON Web Token Authentication
-- Full APIs for group creation, group managing, event creation, event managing, user creation, user managing etc..
+- Full APIs for group creation, group managing, event creation, event managing, participants, user creation, user managing etc..
 - Password encryption for password inserts in database
 - Chat rooms (Real time chat application is in separate server script, built with node.js and socket.io library)
